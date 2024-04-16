@@ -2,4 +2,4 @@
 List python program i created
 
 BEGINNER Level
-[Simple Blackjack Game](https://github.com/riyanmarayat/simple-blackjack-game-with-python)
+1. [Simple Blackjack Game](https://github.com/riyanmarayat/simple-blackjack-game-with-python)
