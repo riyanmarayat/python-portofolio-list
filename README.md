@@ -7,3 +7,4 @@ BEGINNER Level
 
 INTERMEDIATE level
 1. [Coffee Machine Program](https://github.com/riyanmarayat/simple_coffee_machine_program.git)
+2. [Quiz Game](https://github.com/riyanmarayat/Quiz-Game.git)
