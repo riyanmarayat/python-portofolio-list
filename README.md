@@ -11,3 +11,4 @@ INTERMEDIATE level
 3. [The Hirst Painting Program](https://github.com/riyanmarayat/The-Hirst-Painting-Project.git)
 4. [Simple Snake Game](https://github.com/riyanmarayat/simple-snake-game.git)
 5. [Pong The Arcade Game](https://github.com/riyanmarayat/Learn-Python/tree/5784123cae5dec63769fbd16330630b9e7ea0bc9/Day%2022%20Build%20Pong%20The%20Famous%20Arcade%20Game/PongTheFamousArcadeGame)
+6. [The Turtle Crossing Game](https://github.com/riyanmarayat/Learn-Python/tree/14cba8f2aa0994fd8dd53e3bfe3b254bb4ad0fd5/Day%2023%20The%20Turtle%20Crossing%20Capstone%20Project/TheTurtleCrossingProject)
