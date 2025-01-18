@@ -13,3 +13,4 @@ INTERMEDIATE level
 5. [Pong The Arcade Game](https://github.com/riyanmarayat/Learn-Python/tree/5784123cae5dec63769fbd16330630b9e7ea0bc9/Day%2022%20Build%20Pong%20The%20Famous%20Arcade%20Game/PongTheFamousArcadeGame)
 6. [The Turtle Crossing Game](https://github.com/riyanmarayat/Learn-Python/tree/14cba8f2aa0994fd8dd53e3bfe3b254bb4ad0fd5/Day%2023%20The%20Turtle%20Crossing%20Capstone%20Project/TheTurtleCrossingProject)
 7. [U.S. States Quiz Game](https://github.com/riyanmarayat/Learn-Python/tree/18c23791c85940e5e0eb93ef316554939483c289/Day%2025%20Working%20with%20CSV%20Data%20and%20the%20Pandas%20Library/USStatesGame)
+8. [NATO Alphabet Project](https://github.com/riyanmarayat/Learn-Python/tree/440bed98fe73e390f2b613d311375324542db13a/Day%2026%20List%20Comprehension%20and%20the%20NATO%20Alphabet/NATOAlphabetProject)
