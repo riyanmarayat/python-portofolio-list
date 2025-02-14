@@ -15,3 +15,4 @@ INTERMEDIATE level
 7. [U.S. States Quiz Game](https://github.com/riyanmarayat/Learn-Python/tree/18c23791c85940e5e0eb93ef316554939483c289/Day%2025%20Working%20with%20CSV%20Data%20and%20the%20Pandas%20Library/USStatesGame)
 8. [NATO Alphabet Project](https://github.com/riyanmarayat/Learn-Python/tree/440bed98fe73e390f2b613d311375324542db13a/Day%2026%20List%20Comprehension%20and%20the%20NATO%20Alphabet/NATOAlphabetProject)
 9. [Miles to Km Converter Project with GUI](https://github.com/riyanmarayat/Learn-Python/tree/e9e3b2face0ee653961399d45ea058efa608bdd1/Day%2027%20Tkinter%2C%20args%2C%20kwargs%20and%20Creating%20GUI%20Programs/MiletoKilometersConverter)
+10. [Pomodoro GUI Aplication](https://github.com/riyanmarayat/Learn-Python/tree/ea23490d12ae2b3670acc00095ff5e8249686680/Day%2028%20Tkinter%2C%20Dynamic%20Typing%20and%20the%20Pomodoro%20GUI%20Application/Pomodoro%20GUI%20Application)
